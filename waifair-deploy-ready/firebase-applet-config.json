@@ -1,0 +1,13 @@
+{
+  "projectId": "waifair-22616",
+  "appId": "1:770523977469:web:33979305650e4d0b1f1094",
+  "apiKey": "AIzaSyD1ULHlG05o5o4aON_9UDGFbYIica5MNZM",
+  "authDomain": "waifair-22616.firebaseapp.com",
+  "databaseURL": "https://waifair-22616-default-rtdb.firebaseio.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "waifair-22616.firebasestorage.app",
+  "messagingSenderId": "770523977469",
+  "measurementId": "G-NLKEFC8JRP",
+  "oAuthClientId": "",
+  "recaptchaSiteKey": ""
+}
